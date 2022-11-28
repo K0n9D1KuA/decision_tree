@@ -22,4 +22,4 @@ public class DecisionTreeConstant {
     public static Integer LIMIT_TYPE_GREATER_EQUAL = 4;
     public static Integer LIMIT_TYPE_LESS_EQUAL = 5;
     //===================================================== 下面的都是每次新生成决策树添加的代码
-}
+
